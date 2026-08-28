@@ -45,7 +45,7 @@
 
 <div align="center">
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jursin&theme=github-compact&title_color=26A641&custom_title=Jursin%20%E7%9A%84%20GitHub%20%E8%B4%A1%E7%8C%AE%E5%9B%BE%E8%A1%A8&radius=8)
+![Ashutosh's github activity graph](https://github-readme-activity-graph-beige-chi.vercel.app/graph?username=Jursin&theme=github-compact&title_color=26A641&custom_title=Jursin%20%E7%9A%84%20GitHub%20%E8%B4%A1%E7%8C%AE%E5%9B%BE%E8%A1%A8&radius=8)
 
 <img src="https://github-stats-extended.vercel.app/api?username=Jursin&show=reviews&show_icons=true&include_all_commits=true&count_private=true&number_format=long&theme=transparent&locale=cn" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jursin&theme=transparent&layout=donut&locale=cn" />
